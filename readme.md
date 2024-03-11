@@ -19,11 +19,11 @@ Configuação WebDriver: WebDriverManager
 
 
 
-O objetivo do projeto foi para que através do trabalho em equipe, os membros da equipe puderam aprender uns com os outros e aprimorar suas habilidades.
+O objetivo do projeto foi para que os membros da equipe pudessem aprender uns com os outros e aprimorar suas habilidades.
 
 ## Detalhes da implementação
 Para a execução dos testes foi necessário configurar o ambiente de desenvolvimento. Tais como: Java (JDK), Maven, Git.
-É improtante que tenha todas as ferramentas instaladas.
+É importante que tenha todas as ferramentas instaladas.
 
 
 ##Resultados obtidos
